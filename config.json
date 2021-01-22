@@ -1209,10 +1209,10 @@
     },
     {
       "slug": "promises",
-      "uuid": "",
+      "uuid": "ad21018c-e538-4ce5-a33a-949b4293df8c",
       "core": false,
-      "unlocked_by": "grep",
-      "difficulty": 4,
+      "unlocked_by": null,
+      "difficulty": 6,
       "topics": ["promises", "error_handling", "higher_order_functions"]
     },
     {
